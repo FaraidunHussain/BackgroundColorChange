@@ -1,0 +1,11 @@
+body {
+  padding: 45px;
+  background-color: white;
+  color: black;
+  font-size: 45px;
+}
+
+.change {
+  background-color: black;
+  color: white;
+}
